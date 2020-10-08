@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>1.jpeg</filename>
+	<path>/home/gurjas/Documents/PyTorch Learning/1. Custom Butterly and snake classifaction/data/VOCdevkit/VOC2007/ImageSets/1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>21</ymin>
+			<xmax>189</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>
